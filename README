@@ -1,0 +1,18 @@
+SQL Data Migrator
+=================
+
+The title says it all.
+
+Not for the faint of heart. Use common sense, your existing knowledge of
+clojure on the JVM, and read the code for documentation. There are no tests.
+This code is meant to be hacked and adjusted.
+
+There is an [example configuration](https://github.com/zhdk/madek/blob/7ea96f48e86bce18ad7acc95894f054ed740f998/config/data-migration_20120329162800.clj).
+
+
+License
+=======
+
+Copyright (C) 2012 Thomas Schank
+
+Distributed under the [WTFPL, Do What The Fuck You Want To Public License](http://en.wikipedia.org/wiki/WTFPL)
